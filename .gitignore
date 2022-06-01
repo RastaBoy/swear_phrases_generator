@@ -3,4 +3,4 @@ venv
 *.log
 log
 .vscode
-.yaml
+*.yaml
